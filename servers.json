@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "BONUS",
+    "ip": "185.207.214.14",
+    "port": 8093,
+    "online": 0,
+    "max_online": 50,
+    "is_active": true,
+    "color": "#E53935",
+    "logo": "https://i.postimg.cc/XvF4kR3Q/image.png",
+    "banner": "https://i.postimg.cc/J0YyJfcN/Fe-QGc.jpg",
+    "recommended": true,
+    "update_required": false,
+    "min_version": "1.0.0"
+  }
+]
